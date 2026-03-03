@@ -17,8 +17,6 @@ The system enables:
 ---
 
 ## 🏗 Architecture
-
-
 companyrag_v3/
 │
 ├── ingestion/
